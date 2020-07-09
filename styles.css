@@ -1,0 +1,20 @@
+h1
+    {
+        text-align: center;
+        color: darkseagreen;
+        font-family: 'Times New Roman', Times, serif;
+    }
+p
+    {
+        color: darkslateblue;
+        font-family: fantasy;
+
+    }
+body
+    {
+        background-color: deepskyblue;
+    }
+ul
+    {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    }
